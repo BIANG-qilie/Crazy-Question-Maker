@@ -75,7 +75,7 @@ T_or_F_options = ['正确','错误']						  #判断题的选项文字
 
 点击 ```Get_answer(answer_tag=answer_tag,question=question)``` 左边的绿色箭头出答案
 
-![example](image\example.png)
+![example](https://raw.githubusercontent.com/BIANG-qilie/Crazy-Question-Maker/master/image/example.png)
 
 其中 disposable=True时不会做到重复的题目，反之则会
 
